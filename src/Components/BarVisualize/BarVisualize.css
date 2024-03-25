@@ -1,0 +1,31 @@
+* {
+    text-align: center;
+}
+
+.bar-chart-container {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+.Semester-split,
+.Batches-split,
+.CGPA-split,
+.subjects-split {
+    margin-right: 20px;
+    display: inline-block;
+    margin-bottom:60px;
+}
+
+h1 {
+    font-size: 90px;
+    margin-top: 100px;
+}
+
+.inputClass {
+    margin-bottom: 10px;
+}
+
+.inputHeading {
+    font-weight: bold;
+}

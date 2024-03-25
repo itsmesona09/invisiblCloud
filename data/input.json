@@ -1,0 +1,254 @@
+{
+    "student": [
+        {
+            "register_number": "2021239001",
+            "semester": "1",
+            "cgpa": 9.5,
+            "high_scored_subject": "XC5101",
+            "grade": "O",
+            "batch": "2021",
+            "course": "CS",
+            "password": "password1"
+        },
+        {
+            "register_number": "2021239002",
+            "semester": "2",
+            "cgpa": 9.2,
+            "high_scored_subject": "XC5201",
+            "grade": "A+",
+            "batch": "2022",
+            "course": "CS",
+            "password": "password2"
+        },
+        {
+            "register_number": "2021239003",
+            "semester": "3",
+            "cgpa": 8.9,
+            "high_scored_subject": "XC5301",
+            "grade": "A",
+            "batch": "2023",
+            "course": "CS",
+            "password": "password3"
+        },
+        {
+            "register_number": "2021239004",
+            "semester": "4",
+            "cgpa": 8.7,
+            "high_scored_subject": "XC5401",
+            "grade": "B+",
+            "batch": "2024",
+            "course": "CS",
+            "password": "password4"
+        },
+        {
+            "register_number": "2021239005",
+            "semester": "5",
+            "cgpa": 8.4,
+            "high_scored_subject": "XC5501",
+            "grade": "B",
+            "batch": "2025",
+            "course": "CS",
+            "password": "password5"
+        },
+        {
+            "register_number": "2021239006",
+            "semester": "6",
+            "cgpa": 8.1,
+            "high_scored_subject": "XC5201",
+            "grade": "C+",
+            "batch": "2026",
+            "course": "CS",
+            "password": "password6"
+        },
+        {
+            "register_number": "2021239007",
+            "semester": "7",
+            "cgpa": 7.9,
+            "high_scored_subject": "XC5101",
+            "grade": "C",
+            "batch": "2021",
+            "course": "CS",
+            "password": "password7"
+        },
+        {
+            "register_number": "2021239008",
+            "semester": "8",
+            "cgpa": 7.6,
+            "high_scored_subject": "XC5301",
+            "grade": "D+",
+            "batch": "2022",
+            "course": "CS",
+            "password": "password8"
+        },
+        {
+            "register_number": "2021239009",
+            "semester": "9",
+            "cgpa": 7.3,
+            "high_scored_subject": "XC5101",
+            "grade": "D",
+            "batch": "2023",
+            "course": "CS",
+            "password": "password9"
+        },
+        {
+            "register_number": "2021239010",
+            "semester": "10",
+            "cgpa": 7.0,
+            "high_scored_subject": "XC5101",
+            "grade": "E",
+            "batch": "2024",
+            "course": "CS",
+            "password": "password10"
+        },
+        {
+            "register_number": "2021239011",
+            "semester": "1",
+            "cgpa": 9.6,
+            "high_scored_subject": "XI5101",
+            "grade": "O",
+            "batch": "2025",
+            "course": "IT",
+            "password": "password11"
+        },
+        {
+            "register_number": "2021239012",
+            "semester": "2",
+            "cgpa": 9.3,
+            "high_scored_subject": "XC5201",
+            "grade": "A+",
+            "batch": "2026",
+            "course": "IT",
+            "password": "password12"
+        },
+        {
+            "register_number": "2021239013",
+            "semester": "3",
+            "cgpa": 9.0,
+            "high_scored_subject": "XC5401",
+            "grade": "A",
+            "batch": "2021",
+            "course": "IT",
+            "password": "password13"
+        },
+        {
+            "register_number": "2021239014",
+            "semester": "4",
+            "cgpa": 8.8,
+            "high_scored_subject": "XI5401",
+            "grade": "B+",
+            "batch": "2022",
+            "course": "IT",
+            "password": "password14"
+        },
+        {
+            "register_number": "2021239015",
+            "semester": "5",
+            "cgpa": 8.5,
+            "high_scored_subject": "XI5301",
+            "grade": "B",
+            "batch": "2023",
+            "course": "IT",
+            "password": "password15"
+        },
+        {
+            "register_number": "2021239016",
+            "semester": "6",
+            "cgpa": 8.2,
+            "high_scored_subject": "XC5101",
+            "grade": "C+",
+            "batch": "2024",
+            "course": "IT",
+            "password": "password16"
+        },
+        {
+            "register_number": "2021239017",
+            "semester": "7",
+            "cgpa": 8.0,
+            "high_scored_subject": "XC5201",
+            "grade": "C",
+            "batch": "2025",
+            "course": "IT",
+            "password": "password17"
+        },
+        {
+            "register_number": "2021239020",
+            "semester": "3",
+            "cgpa": 5.8,
+            "high_scored_subject": "XC5401",
+            "grade": "C",
+            "batch": "2021",
+            "course": "CS",
+            "password": "password20"
+        },
+        {
+            "register_number": "2021239021",
+            "semester": "5",
+            "cgpa": 5.5,
+            "high_scored_subject": "XC5101",
+            "grade": "C-",
+            "batch": "2022",
+            "course": "IT",
+            "password": "password21"
+        },
+        {
+            "register_number": "2021239022",
+            "semester": "10",
+            "cgpa": 6.3,
+            "high_scored_subject": "XC5401",
+            "grade": "D",
+            "batch": "2024",
+            "course": "CS",
+            "password": "password22"
+        },
+        {
+            "register_number": "2021239023",
+            "semester": "1",
+            "cgpa": 6.7,
+            "high_scored_subject": "XC5201",
+            "grade": "D+",
+            "batch": "2025",
+            "course": "IT",
+            "password": "password23"
+        },
+        {
+            "register_number": "2021239024",
+            "semester": "3",
+            "cgpa": 6.2,
+            "high_scored_subject": "XC5101",
+            "grade": "D-",
+            "batch": "2026",
+            "course": "CS",
+            "password": "password24"
+        },
+        {
+            "register_number": "2021239025",
+            "semester": "4",
+            "cgpa": 6.6,
+            "high_scored_subject": "XC5301",
+            "grade": "C",
+            "batch": "2021",
+            "course": "IT",
+            "password": "password25"
+        },
+        {
+            "register_number": "2021239026",
+            "semester": "1",
+            "cgpa": 6.4,
+            "high_scored_subject": "XI5401",
+            "grade": "C+",
+            "batch": "2022",
+            "course": "CS",
+            "password": "password26"
+        },
+        {
+            "register_number": "2021239027",
+            "semester": "6",
+            "cgpa": 6.8,
+            "high_scored_subject": "XI5301",
+            "grade": "B-",
+            "batch": "2023",
+            "course": "IT",
+            "password": "password27"
+        }                
+    ]
+}
